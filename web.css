@@ -1,0 +1,108 @@
+.navbar-new-top{
+    background: #fff;
+}
+.navbar-brand{
+    font-weight: 600;
+}
+.navbar-brand img{
+    width: 52%;
+}
+.navbar-new-top ul{
+    margin-right: 9%;
+}
+.navbar-new-top ul li{
+    margin-right: 8%;
+}
+.navbar-new-bottom{
+    background-color: #f7f7f7;
+    box-shadow: 0 5px 6px -2px rgba(0,0,0,.3);
+    border-top: 1px solid #22547C;
+    height: 40px;
+}
+.navbar-new-bottom ul li{
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.navbar-nav .nav-item a {
+    color: #333;
+    font-size: 14px;
+    font-weight: 600;
+    transition: 1s ease;
+}
+.navbar-nav .nav-item a:hover{
+    color: #0062cc;
+}
+.dropdown-menu.show{
+    background: #f8f9fa;
+    border-radius: 0;
+}
+.header-btn{
+    width: 161%;
+    border: none;
+    border-radius: 1rem;
+    padding: 8%;
+    background: #0062cc;
+    color: #fff;
+    font-weight: 700;
+    font-size: 13px;
+    cursor: pointer;
+}
+
+.active {
+    color: white;
+}
+.navbar-nav .nav-item a:hover{
+    background: #1D5481;
+    border-top: 2px solid #DE9A29;
+    color: white;
+}
+
+.navbar-nav .nav-item a{
+    color: white;
+    border: 1px solid #1D5481;
+    border-top: 2px solid #0C426E;
+    text-transform: uppercase;
+}
+
+.navbar-nav .nav-item{
+    margin: 0;
+
+    
+}
+
+.navbar-nav .nav-item .nav-link{
+    padding-right: 40px !important;
+    padding-left: 40px !important;
+}
+
+.hello{
+  font-size: 14px;
+}
+
+.img1{
+  padding-top: 30px;
+}
+
+.img2{
+  padding-top: 30px;
+}
+
+.bb{
+  background: #0E3A65;
+}
+
+.feedback{
+  color: white;
+  padding-top: 20px;
+}
+.img3{
+  width: 200px;
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+.intro{
+  padding-top: 20px;
+}
+
+
+
